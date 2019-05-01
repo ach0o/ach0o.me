@@ -1,3 +1,37 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Changhyun An"
+theme = "just-a-card"
+
+[author]
+  name = "Changhyun An"
+  title = "Software Engineer"
+  location = "Seoul, Korea"
+  company = "Unemployed"
+  companyUrl = "#"
+  intro = """
+    Software engineer with fundamental knowledge and experience of building web applications and REST APIs utilizing cloud services — from software design to continuous integration and deployment.
+    Diligent and passionate learner with fine learning curve who craves for continuous improvement.
+  """
+  profile_img = "images/profile.jpeg"
+
+[params]
+  bg_color = "steelblue"
+  google_font = "Ubuntu"
+  bg_image = "images/background.png"
+  [[params.links]]
+    icon = "link"
+    name = "E-mail"
+    url = "mailto:88soldieron@gmail.com"
+  [[params.links]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/achooan"
+  [[params.links]]
+    icon = "linkedin"
+    name = "Linkedin"
+    url = "https://www.linkedin.com/in/changhyun-an-240b71116/"
+  [[params.links]]
+    icon = "file-text"
+    name = "Hire me!"
+    url = "/pdf/resume_changhyun_an.pdf"

@@ -1,0 +1,3 @@
+[submodule "themes/just-a-card"]
+	path = themes/just-a-card
+	url = https://github.com/achooan/just-a-card-hugo
