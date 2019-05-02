@@ -10,7 +10,7 @@ theme = "just-a-card"
   company = "Unemployed"
   companyUrl = "#"
   intro = """
-    Software engineer with fundamental knowledge and experience of building web applications and REST APIs utilizing cloud services — from software design to continuous integration and deployment.
+    Software engineer with fundamental knowledge and experience of building web applications and REST APIs utilizing cloud services.
     Diligent and passionate learner with fine learning curve who craves for continuous improvement.
   """
   profile_img = "images/profile.jpeg"
@@ -34,4 +34,4 @@ theme = "just-a-card"
   [[params.links]]
     icon = "file-text"
     name = "Hire me!"
-    url = "https://bit.ly/2WhxADz"
+    url = "https://bit.ly/2UTe8eX"
