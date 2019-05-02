@@ -5,7 +5,7 @@ theme = "just-a-card"
 
 [author]
   name = "Changhyun An"
-  title = "Software Engineer"
+  title = "Backend Software Engineer"
   location = "Seoul, Korea"
   company = "Unemployed"
   companyUrl = "#"
@@ -13,12 +13,12 @@ theme = "just-a-card"
     Software engineer with fundamental knowledge and experience of building web applications and REST APIs utilizing cloud services.
     Diligent and passionate learner with fine learning curve who craves for continuous improvement.
   """
-  profile_img = "images/profile.jpeg"
+  profile_image = "images/profile.jpeg"
 
 [params]
-  bg_color = "steelblue"
-  google_font = "Ubuntu"
-  bg_image = "images/background.png"
+  primary_color = "#003366"
+  secondary_color = "#FFCC99"
+  google_font = "Overpass"
   [[params.links]]
     icon = "link"
     name = "E-mail"
