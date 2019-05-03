@@ -4,17 +4,17 @@ title = "Changhyun An"
 theme = "just-a-card"
 
 [author]
-  name = "Changhyun An"
-  title = "Backend Software Engineer"
-  location = "Seoul, Korea"
+  name = "Changhyun An ✨"
+  title = "Backend Software Engineer 👨‍💻"
+  location = "Seoul, Korea 🇰🇷"
   company = "Unemployed"
   companyUrl = "#"
   intro = """
-    Hi! 
-    I'm a software engineer with fundamental knowledge and experience of building web applications and REST APIs utilizing cloud services.
-    Also, a diligent and passionate learner with fine learning curve who craves for continuous improvement.
+    Hi! 👋
+    I'm a software engineer with fundamental knowledge and experience of building web🕸 applications and REST APIs utilizing cloud services.
+    Also, a diligent and passionate learner with fine learning curve who craves for continuous improvement 🏃📈.
     I like to work with Python and NodeJS. 
-    I dream of building something beneficial to humanity.
+    I dream of building something beneficial to humanity 🚀!
   """
   profile_image = "images/profile.jpeg"
 
