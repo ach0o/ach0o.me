@@ -10,14 +10,17 @@ theme = "just-a-card"
   company = "Unemployed"
   companyUrl = "#"
   intro = """
-    Software engineer with fundamental knowledge and experience of building web applications and REST APIs utilizing cloud services.
-    Diligent and passionate learner with fine learning curve who craves for continuous improvement.
+    Hi! 
+    I'm a software engineer with fundamental knowledge and experience of building web applications and REST APIs utilizing cloud services.
+    Also, a diligent and passionate learner with fine learning curve who craves for continuous improvement.
+    I like to work with Python and NodeJS. 
+    I dream of building something beneficial to humanity.
   """
   profile_image = "images/profile.jpeg"
 
 [params]
-  primary_color = "#003366"
-  secondary_color = "#FFCC99"
+  primary_color = "#F2F4EF"
+  secondary_color = "#295651"
   google_font = "Overpass"
   [[params.links]]
     icon = "link"
