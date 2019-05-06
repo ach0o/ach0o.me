@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.achooan.com/"
 languageCode = "en-us"
 title = "Changhyun An"
 theme = "just-a-card"
@@ -12,9 +12,10 @@ theme = "just-a-card"
   intro = """
     Hi! 👋
     I'm a software engineer with fundamental knowledge and experience of building web🕸 applications and REST APIs utilizing cloud services.
-    Also, a diligent and passionate learner with fine learning curve who craves for continuous improvement 🏃📈.
-    I like to work with Python and NodeJS. 
-    I dream of building something beneficial to humanity 🚀!
+    I have about 2 years of work experience in the IT industry.
+    I love to work and play with Python🐍 and NodeJS💚.
+    Furthermore, I'm a diligent and passionate learner with fine learning curve who craves for continuous improvement 🏃📈.
+    Lastly, I strongly desire to something beneficial to humanity! 🌏✨
   """
   profile_image = "images/profile.jpeg"
 
