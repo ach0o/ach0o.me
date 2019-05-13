@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "env HUGO_GOOGLEANALYTICS=$GA_ID hugo"
+command = "env HUGO_GOOGLEANALYTICS=$GA_ID hugo --gc --minify"
 
 [context.production.environment]
 HUGO_VERSION = "0.55.4"
