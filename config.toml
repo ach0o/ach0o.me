@@ -8,7 +8,7 @@ theme = "just-a-card"
   title = "Backend Software Engineer 👨‍💻"
   location = "Seoul, Korea 🇰🇷"
   company = "Woongjin-ThinkBig"
-  companyUrl = "https://nolbal.com/"
+  company_url = "https://nolbal.com/"
   intro = """
     Hi! 👋
     I'm a software engineer with fundamental knowledge and experience of building web🕸 applications and REST APIs utilizing cloud services.
