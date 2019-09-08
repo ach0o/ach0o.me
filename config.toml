@@ -7,8 +7,8 @@ theme = "just-a-card"
   name = "Changhyun An ✨"
   title = "Backend Software Engineer 👨‍💻"
   location = "Seoul, Korea 🇰🇷"
-  company = "Somewhere in the Universe"
-  company_url = "#"
+  company = "Nolbal"
+  company_url = "https://nolbal.com"
   intro = """
     Hi! 👋
     I'm a software engineer with fundamental knowledge and experience of building web🕸 applications and REST APIs utilizing cloud services.
