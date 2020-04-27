@@ -12,7 +12,7 @@ theme = "just-a-card"
   intro = """
     Hi! 👋
     I'm a software engineer with fundamental knowledge and experience of building web🕸 applications and REST APIs utilizing cloud services.
-    I have about 2 years of work experience in the IT industry.
+    I have about 3 years of work experience in the IT industry.
     I love to work and play with Python🐍 and NodeJS💚.
     Furthermore, I'm a diligent and passionate learner with fine learning curve who craves for continuous improvement 🏃📈.
     Lastly, I strongly desire to build something beneficial to humanity! 🌏✨
@@ -30,7 +30,7 @@ theme = "just-a-card"
   [[params.links]]
     icon = "github"
     name = "Github"
-    url = "https://github.com/achooan"
+    url = "https://github.com/ach0o"
   [[params.links]]
     icon = "linkedin"
     name = "Linkedin"
